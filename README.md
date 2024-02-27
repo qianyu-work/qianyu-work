@@ -2,9 +2,7 @@
 
 你好，我是赵同学，ISTP人格，数字侠客
 
-热爱IT互联网事业
-
-缔造属于我的梦想，如果你有兴趣和我交流，我会很开心！
+如果你有兴趣和我交流，我会很开心！
 
 ![Visitor Count](https://profile-counter.glitch.me/ZhaoTongXue0/count.svg) 
 
