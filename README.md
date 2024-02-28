@@ -8,7 +8,7 @@
 
 ### 统计
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhaoTongXue0&show_icons=true&theme=dark&locale=cn)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhaoTongXue0&show_icons=true&theme=white&locale=cn)
 
 ### languages
 
