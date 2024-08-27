@@ -8,7 +8,7 @@
 
 ### 统计
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qianyu-wor&show_icons=true&theme=white&locale=cn)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qianyu-work&show_icons=true&theme=white&locale=cn)
 
 ### languages
 
